@@ -1,6 +1,8 @@
 #include<iostream>
 using namespace std;
 
+
+// computr gcd of given numbers 
 int gcd(int a ,int b){
 
 	int r;
