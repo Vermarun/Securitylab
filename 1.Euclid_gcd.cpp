@@ -2,7 +2,11 @@
 using namespace std;
 
 
+<<<<<<< HEAD
 // compute gcd of given numbers a & b
+=======
+// computr gcd of given numbers 
+>>>>>>> 41a92ed0cd181ee3c562aa956e24ba2ecaf22ab8
 int gcd(int a ,int b){
 
 	int r;
